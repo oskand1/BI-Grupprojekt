@@ -1,2 +1,3 @@
 size: 160;floor: "lava"
 fix
+fix2
